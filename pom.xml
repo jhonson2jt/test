@@ -1,10 +1,8 @@
 <project>
  <modelVersion>4.0.0</modelVersion>
-  <plugin>
   <groupId> org.jacoco </groupId>
   <artifactId> jacoco-maven-plugin </artifactId>
   <version> 0.8.4-SNAPSHOT </version>
-</plugin>
 <properties>
   <sonar.core.codeCoveragePlugin>jacoco</sonar.core.codeCoveragePlugin>
   <sonar.jacoco.reportPath>target/jacoco.exec</sonar.jacoco.reportPath>
