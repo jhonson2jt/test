@@ -1,3 +1,4 @@
+<project>
 <properties>
   <sonar.core.codeCoveragePlugin>jacoco</sonar.core.codeCoveragePlugin>
   <sonar.jacoco.reportPath>target/jacoco.exec</sonar.jacoco.reportPath>
@@ -42,3 +43,4 @@
     </plugin>
   </plugins>
 </build>
+</project>
